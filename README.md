@@ -2,10 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Tech Stack
 
-[NextJS](https://nextjs.org/)
-  [React](https://react.dev/)
-[Tailwindcss](https://tailwindcss.com/)
-[Framer Motion](https://www.framer.com/motion/)
+[NextJS](https://nextjs.org/) | 
+[React](https://react.dev/) | 
+[Tailwindcss](https://tailwindcss.com/) | 
+[Framer Motion](https://www.framer.com/motion/) | 
 [DotUI](https://dotui.org/?ref=dailydev)
 
 ## Getting Started
