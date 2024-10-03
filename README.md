@@ -1,44 +1,43 @@
-![Static Badge](https://img.shields.io/badge/Hate_Fucked-Into_Existence-blue)
+![👋 I am Matt.](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-## Tech Stack
+![Profile views](https://komarev.com/ghpvc/?username=MBeckt&label=Profile%20views&color=0e75b6&style=flat)
 
-[NextJS](https://nextjs.org/) | 
-[React](https://react.dev/) | 
-[Tailwindcss](https://tailwindcss.com/) | 
-[Framer Motion](https://www.framer.com/motion/) | 
-[DotUI](https://dotui.org/?ref=dailydev)
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 I am Matt.
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-## Getting Started
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-First, run the development server:
+ **<h3 align="left">🚀 Passionate imbecile</h3>**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**<h3 align="left">Rapid Fire</h3>**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 💼 I'm currently working on: **💻 Yes**
+- 🌱 I'm currently learning: **📚 Depression.**
+- 💬 Ask me about: **💡 Nothing.**
+- ⚡ Fun fact: **🎢 I once got fired for punching a pizza.**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+ **<h3 align="left">Skills</h3>**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"></div>
 
-## Learn More
+ **<h3 align="left">GitHub Stats</h3>**
 
-To learn more about Next.js, take a look at the following resources:
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mbeckt98&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=mbeckt98&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbeckt98&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=mbeckt98&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+ 
