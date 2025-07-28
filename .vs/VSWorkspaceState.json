@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app"
   ],
-  "SelectedNode": "\\C:\\Users\\MatthewBeckett\\source\\repos\\mbeckt",
+  "SelectedNode": "\\app\\page.tsx",
   "PreviewInSolutionExplorer": false
 }
